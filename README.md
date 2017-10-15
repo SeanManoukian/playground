@@ -7,9 +7,4 @@ This is for experimentation.
 * bar
 
 
-    function fancyAlert(arg) {
-       if(arg) {
-        $.facebox({div:'#foo'})
-      }
-    }
-
+   
