@@ -6,10 +6,10 @@ This is for experimentation.
 * foo
 * bar
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+
+    function fancyAlert(arg) {
+       if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+
